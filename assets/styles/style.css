@@ -1,0 +1,27 @@
+h1 {
+    color: yellow;
+}
+
+.title {
+    color: aqua;
+    font-size: 50px;
+}
+
+.text {
+    background-color: gold;
+}
+
+.image-lake {
+    width: 500px;
+    height: 312.5px;
+}
+
+.icon {
+    width: 100px;
+    height: auto;
+}
+
+.icon-1 {
+    width: 100px;
+    height: auto;
+}
